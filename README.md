@@ -10,4 +10,4 @@ SmartLens AI is a technology startup focused on delivering AI-powered computer v
 - **AI-Powered Security**: AI-driven algorithms monitor for suspicious activities, providing real-time alerts to enhance in-store security.
 
 ### For more details, visit our [Wiki page](https://github.com/sailesh2710/SmartLensAI_Part3/wiki).
-### Youtube Tutorial : [Youtube video] (https://www.youtube.com/watch?v=WewEdb7DFCk).
+### Youtube Tutorial : [Youtube video](https://www.youtube.com/watch?v=WewEdb7DFCk).
