@@ -1,0 +1,6 @@
+.about-section img {
+    transition: transform 0.3s ease-in-out;
+  }
+  .about-section img:hover {
+    transform: scale(1.05);
+  }

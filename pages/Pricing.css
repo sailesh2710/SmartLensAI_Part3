@@ -1,0 +1,36 @@
+.pricing-card {
+    border-radius: 8px;
+    transition: transform 0.3s, box-shadow 0.3s;
+  }
+  
+  .pricing-card:hover {
+    transform: translateY(-5px);
+    box-shadow: 0 10px 20px rgba(0, 0, 0, 0.1);
+  }
+  
+  .card-header {
+    background-color: #00ff6e;
+    color: white;
+    padding: 20px;
+    border-bottom: 0;
+    border-top-left-radius: 8px;
+    border-top-right-radius: 8px;
+  }
+  
+  .card-body {
+    padding: 20px;
+  }
+  
+  .card-body ul {
+    list-style-type: none;
+    padding-left: 0;
+  }
+  
+  .card-body li {
+    margin-bottom: 10px;
+  }
+  
+  .btn {
+    margin-top: 20px;
+  }
+  

@@ -1,0 +1,37 @@
+ 
+  /* Features Section */
+  .feature-card {
+    border-radius: 8px;
+    padding: 20px;
+    box-shadow: 0 4px 10px rgba(0, 0, 0, 0.1);
+    text-align: center;
+    transition: transform 0.3s, box-shadow 0.3s;
+  }
+  
+  .feature-card:hover {
+    transform: translateY(-5px);
+    box-shadow: 0 8px 20px rgba(0, 0, 0, 0.2);
+  }
+  
+  .feature-card h3 {
+    color: #007bff;
+  }
+  
+  /* Testimonials Section */
+  blockquote {
+    border-left: 5px solid #007bff;
+    padding-left: 20px;
+    font-style: italic;
+  }
+  
+  blockquote footer {
+    text-align: right;
+    font-weight: bold;
+  }
+  
+  /* Footer */
+  footer {
+    background-color: #343a40;
+    color: #ffffff;
+  }
+  
