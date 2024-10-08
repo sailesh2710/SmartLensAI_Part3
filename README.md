@@ -9,4 +9,5 @@ SmartLens AI is a technology startup focused on delivering AI-powered computer v
 - **Customer Behavior Analytics**: Analyze customer movements and preferences to optimize product placement and improve sales strategies.
 - **AI-Powered Security**: AI-driven algorithms monitor for suspicious activities, providing real-time alerts to enhance in-store security.
 
-For more details, visit our [Wiki page]([link_to_wiki](https://github.com/sailesh2710/SmartLensAI_Part3/wiki)).
+For more details, visit our [Wiki page](https://github.com/sailesh2710/SmartLensAI_Part3/wiki).
+Youtube Tutorial : [Youtube video] ().
