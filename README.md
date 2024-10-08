@@ -1,4 +1,4 @@
-#CS651, Fall 24 Project 1 (Part 2)
+#CS651, Fall 24 Project 1 (Part 3)
 ## SmartLens AI
 
 ## Overview
@@ -9,5 +9,5 @@ SmartLens AI is a technology startup focused on delivering AI-powered computer v
 - **Customer Behavior Analytics**: Analyze customer movements and preferences to optimize product placement and improve sales strategies.
 - **AI-Powered Security**: AI-driven algorithms monitor for suspicious activities, providing real-time alerts to enhance in-store security.
 
-For more details, visit our [Wiki page](https://github.com/sailesh2710/SmartLensAI_Part3/wiki).
-Youtube Tutorial : [Youtube video] ().
+### For more details, visit our [Wiki page](https://github.com/sailesh2710/SmartLensAI_Part3/wiki).
+### Youtube Tutorial : [Youtube video] (https://www.youtube.com/watch?v=WewEdb7DFCk).
